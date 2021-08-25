@@ -16,7 +16,7 @@
         android:layout_marginTop="100dp"
         android:layout_marginRight="40dp"
         android:clickable="true"
-        android:orientation="vertical">
+        android:orientation="horizontal">
 
         <com.edlplan.ui.TriangleEffectView
             android:layout_width="320dp"
@@ -63,7 +63,7 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:gravity="center"
-            android:orientation="vertical"
+            android:orientation="horizontal"
             android:padding="3dp">
 
             <TextView
