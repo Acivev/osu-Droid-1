@@ -113,7 +113,7 @@
     <string name="opt_skipoffset_summary">This offset will be added when you press the &quot;Skip&quot; button. Enter -1 for auto offset</string>
 
     <string name="opt_lowtextures_title">Calidad de texturas</string>
-    <string name="opt_lowtextures_summary">Reduce la calidad de las texturas, si se desactiva, el juego usara texturas en HD, por lo que se necesitara mas rendimiento
+    <string name="opt_lowtextures_summary">Reduce la calidad de las texturas, si se desactiva, el juego usara texturas en HD, por lo que se necesitara mas rendimiento</string>
 
     <string name="opt_nativeplayer_title">Use built-in player</string>
     <string name="opt_nativeplayer_summary">Use built-in player for more accurate timing (doesn\'t support .ogg files)</string>
